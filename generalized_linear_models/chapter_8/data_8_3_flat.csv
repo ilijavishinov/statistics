@@ -1,0 +1,17 @@
+treatment,sex,stage,frequency
+sequential,male,progressive disease,28
+sequential,male,no change,45
+sequential,male,partial remission,29
+sequential,male,complete remission,26
+sequential,female,progressive disease,4
+sequential,female,no change,12
+sequential,female,partial remission,5
+sequential,female,complete remission,2
+alternating,male,progressive disease,41
+alternating,male,no change,44
+alternating,male,partial remission,20
+alternating,male,complete remission,20
+alternating,female,progressive disease,12
+alternating,female,no change,7
+alternating,female,partial remission,3
+alternating,female,complete remission,1
